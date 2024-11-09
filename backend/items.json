@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "id": "001",
+      "image": "images/1.webp",
+      "company": "Street Style Store",
+      "item_name": "Women Block Heels Mules",
+      "original_price": 4999,
+      "current_price": 1499,
+      "discount_percentage": 70,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2024",
+      "rating": {
+        "stars": 4.2,
+        "count": 14
+      }
+    },
+    {
+      "id": "002",
+      "image": "images/2.webp",
+      "company": "The Souled Store",
+      "item_name": "Pure Cotton Lounge Shorts",
+      "original_price": 599,
+      "current_price": 401,
+      "discount_percentage": 33,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2024",
+      "rating": {
+        "stars": 4.1,
+        "count": 326
+      }
+    },
+    {
+      "id": "003",
+      "image": "images/5.webp",
+      "company": "Puma",
+      "item_name": "ESS+ 2 Col Logo Tee",
+      "original_price": 1599,
+      "current_price": 607,
+      "discount_percentage": 62,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2024",
+      "rating": {
+        "stars": 4.3,
+        "count": 49
+      }
+    },
+    {
+      "id": "004",
+      "image": "images/9.webp",
+      "company": "KALINI",
+      "item_name": "Kurta With Trousers & Dupatta",
+      "original_price": 4995,
+      "current_price": 1398,
+      "discount_percentage": 72,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2024",
+      "rating": {
+        "stars": 4.1,
+        "count": 360
+      }
+    },
+    {
+      "id": "005",
+      "image": "images/3.webp",
+      "company": "HRX by Hrithik Roshan",
+      "item_name": "Men Comfort Insole Sneakers",
+      "original_price": 3699,
+      "current_price": 1109,
+      "discount_percentage": 70,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2024",
+      "rating": {
+        "stars": 3.9,
+        "count": 981
+      }
+    },
+   
+    {
+      "id": "006",
+      "image": "images/6.webp",
+      "company": "Huetrap",
+      "item_name": "Typography Print Tshirt",
+      "original_price": 1009,
+      "current_price": 417,
+      "discount_percentage": 62,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2024",
+      "rating": {
+        "stars": 4,
+        "count": 30100
+      }
+    },
+    {
+      "id": "007",
+      "image": "images/8.webp",
+      "company": "Indo Era",
+      "item_name": "Embroidered Kurta Set",
+      "original_price": 7999,
+      "current_price": 1999,
+      "discount_percentage": 75,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2024",
+      "rating": {
+        "stars": 4.3,
+        "count": 2500
+      }
+    },
+    {
+      "id": "008",
+      "image": "images/4.webp",
+      "company": "Minimalist",
+      "item_name": "SPF 50 PA++++ Sunscreen",
+      "original_price": 399,
+      "current_price": 299,
+      "discount_percentage": 50,
+      "return_period": 25,
+      "delivery_date": "10 Oct 2024",
+      "rating": {
+        "stars": 4.4,
+        "count": 3070
+      }
+    }
+  ]
+}
